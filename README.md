@@ -20,6 +20,3 @@ Here are some ideas to get you started:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yh-nr&theme=vue-dark&show_icons=true&layout=compact)](https://github.com/yh-nr/github-readme-stats)
 
-
----
-# テスト
